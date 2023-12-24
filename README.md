@@ -30,4 +30,4 @@ The project uses a machine learning model serialized with joblib. Ensure to have
 If you encounter issues related to model version inconsistency, refer to Scikit-learn Model Persistence.
 
 ## Contributing
-Feel free to contribute by opening issues, suggesting enhancements, or submitting pull requests.
+Feel free to contribute by opening issues, suggesting enhancements, or submitting pull requests .
